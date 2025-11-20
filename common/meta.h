@@ -7,7 +7,9 @@
 #include <assert.h>
 #include <iostream>
 #include <algorithm>
-
+#include <cstdint>
+#include <limits>
+using namespace std;
 
 typedef unsigned int ui;
 typedef unsigned long long int ull;
